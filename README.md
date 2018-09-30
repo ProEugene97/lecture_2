@@ -1,4 +1,4 @@
-# lecture_2 называется артефактом.
+# lecture_2
 Находясь в папке Create, написать в консоле
 mvn clean
 mvn compile
